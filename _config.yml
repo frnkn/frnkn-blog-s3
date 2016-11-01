@@ -2,7 +2,7 @@
 title:       FRNKN Blog
 email:       carl(at)frnkn.com
 author:      Carl Bednorz
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Writing about Web Development, UX, IT Project Management, E-Commerce and a lot more."
 baseurl:     ""
 url:         "http://blog.frnkn.com"
 date_format: "%b %-d, %Y"
@@ -11,7 +11,7 @@ date_format: "%b %-d, %Y"
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-1646548-16
 google_tag_manager:
 # Bing services
 bing_verification:

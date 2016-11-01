@@ -1,17 +1,13 @@
 ---
 layout: page
-title: About FRNKN
+title: About
 permalink: /about/
 tags: about
 ---
 
-FRNKN is made by [Carl Bednorz](http://www.frnkn.com)
+Hi there!
 
-* Carl Bednorz
-* Christoph-Krebs-Str.7
-* 97422 Schweinfurt
-* Germany
-* carl(at)frnkn.com
+My name is Carl Bednorz and I'm writing about Web Development, Agile Project and Product Mangement - E-Commerce related - on this blog. I currently work for s.Oliver - a german fashion company.
 
 
 

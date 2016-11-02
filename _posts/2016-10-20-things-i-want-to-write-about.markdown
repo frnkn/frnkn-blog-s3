@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things I'd like to write about on blog.frnkn.com"
-date:   2016-10-31 06:45:51 +0100
+date:   2016-10-20 06:45:51 +0100
 categories: misc
 ---
 Hi there,
